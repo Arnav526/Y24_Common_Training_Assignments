@@ -1,0 +1,19 @@
+level 0- Password was already given
+
+level 1-ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+(opened file using cat)
+
+level 2-263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+(opened - file by using the command cat -- -)
+
+level 3-MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+(used quotes to specify the file name)
+
+level 4-2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+(used ls -a to see all the files)
+
+level 5-4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+(checked every file, one file has the password)
+
+level 6-HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+(we need to find . -type f -size 1033c ! executable)
